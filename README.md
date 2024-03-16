@@ -43,3 +43,4 @@ Properties and methods must be linked to the object in order to work using .
 
 
 
+![Screenshot (75)](https://github.com/Makena-Wambui/OOP-IN-PYTHON/assets/140601003/a561b406-e765-480a-9b86-a82d73adbece)
